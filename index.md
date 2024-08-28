@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # Navneeth's First CS193 Homework
 
 - CS 193 is student taught
